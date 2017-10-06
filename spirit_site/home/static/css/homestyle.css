@@ -6,6 +6,11 @@
   font-family: "Adobe Garamond Pro","Times New Roman", Times, serif;
 }
 
+#nav1 a {
+  color: #000;
+  font-size: 20px;
+}
+
 #navbot{
   padding-top: : 30px;
 }
