@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% extends "home/base.html" %}
+{% load static %}
+
+    {% block body_block %}
+    <div class="container eventr">
+      <h1 class="eventh text-center "><u>Table Tennis</u></h1>
+      <p>
+      </p>
+      <h1 class="eventh text-center text-center "><u>Rules</u></h1>
+      <p>
+       </p>
+
+       <p>
+
+       </p>
+
+       <p>
+
+       </p>
+
+       <p>
+
+       </p>
+
+       <p>
+
+       </p>
+
+       <p>
+
+       </p>
+
+
+    </div>
+
+
+
+
+
+
+    {% endblock %}
